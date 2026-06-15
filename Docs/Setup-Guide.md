@@ -2,15 +2,22 @@
 
 This document explains the setup process for the NAS device.
 
-## Hardware Used
+# Hardware and Software Requirements
 
-- Raspberry Pi
-- Storage drive (SD Card)
-- Ethernet or Wi-Fi connection
-- Power supply
+## Hardware Components
 
-## Software Used
+- Raspberry Pi 4
+- MicroSD Card
+- Ethernet/Wi-Fi connection
+- Power Supply
+- HDMI Cable
+- MicroSD Card Adapter
+- Monitor
+- Keyboard
+- Mouse
 
-- Linux-based operating system
-- File sharing service
-- Remote access tools
+## Software Components
+
+- Raspberry Pi Imager
+- Rspberry Pi OS
+- RealVNC Viewer
