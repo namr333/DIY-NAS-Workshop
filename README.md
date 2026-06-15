@@ -3,7 +3,7 @@
 ## Overview
 This project involved designing, building, and configuring a Linux-based Network Attached Storage (NAS) device. The goal was to create a centralized file storage system while gaining hands-on experience in Linux administration, networking, storage management, and system security.
 
-##Skills Gained
+##Skills-Gained
 - Linux Administration
 - Network Configuration
 - Network Attached Storage (NAS)
