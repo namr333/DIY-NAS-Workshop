@@ -21,3 +21,6 @@ These components were used to assemble, configure, and manage a Raspberry Pi-bas
 - Raspberry Pi Imager
 - Rspberry Pi OS
 - RealVNC Viewer
+
+
+# How to Build
