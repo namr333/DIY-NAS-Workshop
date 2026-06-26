@@ -15,8 +15,10 @@ These components were used to assemble, configure, and manage a Raspberry Pi-bas
 - Monitor
 - Keyboard
 - Mouse
-
+![Hardware Setup](Screenshots/Hardware1.png)
+![Hardware Setup](Screenshots/Hardware2.png)
 # How to Build
+
 
 ## Software Components
 
