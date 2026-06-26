@@ -25,7 +25,7 @@ These components were used to assemble, configure, and manage a Raspberry Pi-bas
 We linked a short video on how to build it.
 
 
-## Software Components
+# Software Components
 
 - Raspberry Pi Imager
 - Rspberry Pi OS
