@@ -16,6 +16,8 @@ These components were used to assemble, configure, and manage a Raspberry Pi-bas
 - Keyboard
 - Mouse
 
+# How to Build
+
 ## Software Components
 
 - Raspberry Pi Imager
@@ -23,4 +25,3 @@ These components were used to assemble, configure, and manage a Raspberry Pi-bas
 - RealVNC Viewer
 
 
-# How to Build
