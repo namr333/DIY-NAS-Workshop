@@ -14,8 +14,8 @@ This project involved designing, building, and configuring a Linux-based Network
 - Technical Documentation
 
 
-[Setup Guide](docs/Setup-Guide.md)
-
+[Setup Guide](Docs/Setup-Guide.md)
+Docs/Setup-Guide.md
 
 
 ## Team Contributions
