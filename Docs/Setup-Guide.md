@@ -6,7 +6,7 @@ These components were used to assemble, configure, and manage a Raspberry Pi-bas
 
 ## Hardware Components
 
-- Raspberry Pi 4
+- Raspberry Pi 4                            - Mouse
 - MicroSD Card
 - Ethernet/Wi-Fi connection
 - Power Supply
@@ -15,6 +15,8 @@ These components were used to assemble, configure, and manage a Raspberry Pi-bas
 - Monitor
 - Keyboard
 - Mouse
+
+
 ![Hardware Setup](Screenshots/Hardware1.png)
 ![Hardware Setup](Screenshots/Hardware2.png)
 # How to Build
