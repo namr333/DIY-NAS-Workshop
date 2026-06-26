@@ -13,6 +13,11 @@ This project involved designing, building, and configuring a Linux-based Network
 - Troubleshooting
 - Technical Documentation
 
+
+[Setup Guide](docs/Setup-Guide.md)
+
+
+
 ## Team Contributions
 
 ### Bernice Santana
