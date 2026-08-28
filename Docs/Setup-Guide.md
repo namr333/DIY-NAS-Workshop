@@ -25,6 +25,7 @@ These components were used to assemble, configure, and manage a Raspberry Pi-bas
 
 We linked a short video on how to build it.
 - https://youtu.be/j_C4lEFBJiA?si=8QM7fpJDridwIDG9
+- [![How To Build A Raspberry Pi 4 Model B](https://img.youtube.com/vi/j_C4lEFBJiA/0.jpg)](https://www.youtube.com/watch?v=j_C4lEFBJiA)
 
 
 # Software Components
