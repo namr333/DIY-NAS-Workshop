@@ -22,7 +22,9 @@ These components were used to assemble, configure, and manage a Raspberry Pi-bas
 
 
 # How to Build
+
 We linked a short video on how to build it.
+- https://youtu.be/j_C4lEFBJiA?si=8QM7fpJDridwIDG9
 
 
 # Software Components
