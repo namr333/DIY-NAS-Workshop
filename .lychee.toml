@@ -1,0 +1,8 @@
+# Keep external-link checks reliable without failing on intermittent timeouts.
+timeout = 20
+max_retries = 3
+retry_wait_time = 2
+exclude = [
+  "^mailto:",
+  "^https://localhost",
+]
